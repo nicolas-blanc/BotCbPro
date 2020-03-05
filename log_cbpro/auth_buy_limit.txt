@@ -1,0 +1,1 @@
+{'id': 'e44b83ce-cf1a-4012-b5fc-f634c75e85c0', 'price': '100.00', 'size': '0.01', 'product_id': 'BTC-EUR', 'side': 'buy', 'stp': 'dc', 'type': 'limit', 'time_in_force': 'GTC', 'post_only': False, 'created_at': '2020-03-05T07:17:12.765775Z', 'fill_fees': '0', 'filled_size': '0', 'executed_value': '0', 'status': 'pending', 'settled': False}

@@ -1,0 +1,617 @@
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 0.0
+ * Low 24h Price: 0.0
+ * High 24h Price: 0.0
+ * Buy Order Book:
+ * Sell Order Book:
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 80.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.374, Size: 7.1
+	- Price: 7.375, Size: 0.0
+	- Price: 7.376, Size: 0.0
+	- Price: 7.377, Size: 0.0
+	- Price: 7.378, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.374, Size: 7.1
+	- Price: 7.375, Size: 0.0
+	- Price: 7.376, Size: 0.0
+	- Price: 7.377, Size: 0.0
+	- Price: 7.378, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.374, Size: 7.1
+	- Price: 7.375, Size: 0.0
+	- Price: 7.376, Size: 376.73831056
+	- Price: 7.377, Size: 0.0
+	- Price: 7.378, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.372, Size: 7.1
+	- Price: 7.373, Size: 123.913
+	- Price: 7.374, Size: 216.73831056
+	- Price: 7.375, Size: 0.0
+	- Price: 7.376, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.37, Size: 0.0
+	- Price: 7.371, Size: 78.649
+	- Price: 7.372, Size: 0.0
+	- Price: 7.373, Size: 123.913
+	- Price: 7.374, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.369, Size: 7.1
+	- Price: 7.37, Size: 78.649
+	- Price: 7.371, Size: 0.0
+	- Price: 7.372, Size: 0.0
+	- Price: 7.373, Size: 304.74251122
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.364, Size: 0.0
+	- Price: 7.365, Size: 0.0
+	- Price: 7.366, Size: 0.0
+	- Price: 7.367, Size: 0.0
+	- Price: 7.368, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.363, Size: 0.0
+	- Price: 7.364, Size: 0.0
+	- Price: 7.365, Size: 0.0
+	- Price: 7.366, Size: 123.913
+	- Price: 7.367, Size: 216.73831056
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.363, Size: 0.0
+	- Price: 7.364, Size: 0.0
+	- Price: 7.365, Size: 0.0
+	- Price: 7.366, Size: 0.0
+	- Price: 7.367, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.361, Size: 0.0
+	- Price: 7.362, Size: 0.0
+	- Price: 7.363, Size: 0.0
+	- Price: 7.364, Size: 0.0
+	- Price: 7.365, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.361, Size: 0.0
+	- Price: 7.362, Size: 0.0
+	- Price: 7.363, Size: 0.0
+	- Price: 7.364, Size: 0.0
+	- Price: 7.365, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.361, Size: 0.0
+	- Price: 7.362, Size: 0.0
+	- Price: 7.363, Size: 0.0
+	- Price: 7.364, Size: 7.1
+	- Price: 7.365, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.361, Size: 0.0
+	- Price: 7.362, Size: 0.0
+	- Price: 7.363, Size: 0.0
+	- Price: 7.364, Size: 0.0
+	- Price: 7.365, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.361, Size: 0.0
+	- Price: 7.362, Size: 0.0
+	- Price: 7.363, Size: 0.0
+	- Price: 7.364, Size: 0.0
+	- Price: 7.365, Size: 123.913
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.36, Size: 0.0
+	- Price: 7.361, Size: 40.00000225
+	- Price: 7.362, Size: 123.913
+	- Price: 7.363, Size: 0.0
+	- Price: 7.364, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.36, Size: 0.0
+	- Price: 7.361, Size: 0.0
+	- Price: 7.362, Size: 0.0
+	- Price: 7.363, Size: 0.0
+	- Price: 7.364, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.36, Size: 0.0
+	- Price: 7.361, Size: 0.0
+	- Price: 7.362, Size: 0.0
+	- Price: 7.363, Size: 7.1
+	- Price: 7.364, Size: 40.00000225
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.36, Size: 0.0
+	- Price: 7.361, Size: 0.0
+	- Price: 7.362, Size: 0.0
+	- Price: 7.363, Size: 0.0
+	- Price: 7.364, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.36, Size: 0.0
+	- Price: 7.361, Size: 0.0
+	- Price: 7.362, Size: 47.10000225
+	- Price: 7.363, Size: 123.913
+	- Price: 7.364, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.354, Size: 0.0
+	- Price: 7.355, Size: 0.0
+	- Price: 7.356, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.354, Size: 0.0
+	- Price: 7.355, Size: 0.0
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 47.10000225
+	- Price: 7.358, Size: 123.913
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.354, Size: 0.0
+	- Price: 7.355, Size: 0.0
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.392
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.354, Size: 0.0
+	- Price: 7.355, Size: 0.0
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 196.87979102
+	- Price: 7.358, Size: 7.1
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.355
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.354, Size: 0.0
+	- Price: 7.355, Size: 0.0
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.355
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.352, Size: 5.1
+	- Price: 7.353, Size: 8.97978712
+	- Price: 7.354, Size: 123.913
+	- Price: 7.355, Size: 108.36915528
+	- Price: 7.356, Size: 108.36915528
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.355
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.352, Size: 5.1
+	- Price: 7.353, Size: 8.97978712
+	- Price: 7.354, Size: 123.913
+	- Price: 7.355, Size: 108.36915528
+	- Price: 7.356, Size: 108.36915528
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.355
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.352, Size: 5.1
+	- Price: 7.353, Size: 8.97978712
+	- Price: 7.354, Size: 123.913
+	- Price: 7.355, Size: 216.73831056
+	- Price: 7.356, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.355
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.352, Size: 14.07978712
+	- Price: 7.353, Size: 123.913
+	- Price: 7.354, Size: 0.0
+	- Price: 7.355, Size: 216.73831056
+	- Price: 7.356, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.355
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.352, Size: 5.1
+	- Price: 7.353, Size: 0.0
+	- Price: 7.354, Size: 0.0
+	- Price: 7.355, Size: 0.0
+	- Price: 7.356, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.355
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.352, Size: 5.1
+	- Price: 7.353, Size: 0.0
+	- Price: 7.354, Size: 0.0
+	- Price: 7.355, Size: 0.0
+	- Price: 7.356, Size: 225.71809768
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.355
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.352, Size: 5.1
+	- Price: 7.353, Size: 0.0
+	- Price: 7.354, Size: 0.0
+	- Price: 7.355, Size: 0.0
+	- Price: 7.356, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--
+--/\--/\--/\--/\--/\--/\--/\--/\--/\--/\--
+ * Products: ETC-EUR / 
+ * Channels: level2 / ticker / 
+ * Current Price: 7.355
+ * Low 24h Price: 6.867
+ * High 24h Price: 7.488
+ * Buy Order Book:
+	- Price: 7.356, Size: 0.0
+	- Price: 7.357, Size: 0.0
+	- Price: 7.358, Size: 0.0
+	- Price: 7.359, Size: 0.0
+	- Price: 7.36, Size: 0.0
+ * Sell Order Book:
+	- Price: 7.352, Size: 5.1
+	- Price: 7.353, Size: 0.0
+	- Price: 7.354, Size: 0.0
+	- Price: 7.355, Size: 0.0
+	- Price: 7.356, Size: 0.0
+--\/--\/--\/--\/--\/--\/--\/--\/--\/--\/--

@@ -1,0 +1,1 @@
+{'id': '72f2c996-0b93-4bae-91d0-562eecef9914', 'currency': 'EUR', 'balance': '145.3587415497236000', 'available': '65.9637415497236', 'hold': '79.3950000000000000', 'profile_id': '4845dff5-64e7-49c1-8195-22d578a49c38', 'trading_enabled': True}

@@ -1,0 +1,129 @@
+2020-03-04 14:32:22,600 - DEBUG - BuyAll - Current EUR: 0 // Current ETC: 27.47252747252747
+2020-03-04 14:32:22,601 - DEBUG - -----> Change Order Price: 0.0
+2020-03-04 14:34:55,792 - DEBUG - -----> Change Order Price: 0.1511
+2020-03-04 14:36:19,954 - DEBUG - -----> Change Order Price: 0.1374
+2020-03-04 14:36:56,717 - DEBUG - -----> Change Order Price: 0.0
+2020-03-04 14:38:01,306 - DEBUG - -----> Change Order Price: -0.6319
+2020-03-04 14:38:01,640 - DEBUG - -----> Change Order Price: -0.6181
+2020-03-04 14:40:01,224 - DEBUG - -----> Change Order Price: -1.0714
+2020-03-04 14:40:01,224 - DEBUG - BuyAll - Current EUR: 0 // Current ETC: 27.47252747252747
+2020-03-04 14:45:33,470 - DEBUG - -----> Change Order Price: -0.8242
+2020-03-04 14:45:33,470 - DEBUG - BuyAll - Current EUR: 0 // Current ETC: 27.47252747252747
+2020-03-04 14:45:33,484 - DEBUG - -----> Change Order Price: -0.7143
+2020-03-04 14:45:33,485 - DEBUG - BuyAll - Current EUR: 0 // Current ETC: 27.47252747252747
+2020-03-04 14:45:48,971 - DEBUG - -----> Change Order Price: -0.8379
+2020-03-04 14:45:49,073 - DEBUG - BuyAll - Current EUR: 0 // Current ETC: 27.47252747252747
+2020-03-04 14:45:59,862 - DEBUG - -----> Change Order Price: -1.0714
+2020-03-04 14:45:59,862 - DEBUG - BuyAll - Current EUR: 0 // Current ETC: 27.47252747252747
+2020-03-04 14:45:59,864 - DEBUG - -----> Change Order Price: -1.0852
+2020-03-04 14:45:59,864 - DEBUG - BuyAll - Current EUR: 0 // Current ETC: 27.47252747252747
+2020-03-04 14:45:59,866 - DEBUG - -----> Change Order Price: -1.1813
+2020-03-04 14:45:59,866 - DEBUG - BuyAll - Current EUR: 0 // Current ETC: 27.47252747252747
+2020-03-04 14:45:59,868 - DEBUG - -----> Change Order Price: -1.2088
+2020-03-04 14:45:59,868 - DEBUG - BuyAll - Current EUR: 0 // Current ETC: 27.47252747252747
+2020-03-04 14:53:15,801 - DEBUG - -----> Change Order Price: -1.6346
+2020-03-04 14:53:15,802 - DEBUG - SellAll - Current EUR: 195.74711538461534 // Current ETC: 0
+2020-03-04 14:53:15,804 - DEBUG - -----> Change Order Price: -1.6346
+2020-03-04 14:53:15,805 - DEBUG - SellAll - Current EUR: 195.74711538461534 // Current ETC: 0
+2020-03-04 14:53:28,070 - DEBUG - -----> Change Order Price: -1.5797
+2020-03-04 14:53:28,072 - DEBUG - SellAll - Current EUR: 195.74711538461534 // Current ETC: 0
+2020-03-04 14:59:05,702 - DEBUG - -----> Change Order Price: -1.2912
+2020-03-04 14:59:05,703 - DEBUG - BuyAll - Current EUR: 0 // Current ETC: 27.24006615427433
+2020-03-04 15:00:50,528 - DEBUG - -----> Change Order Price: -1.3324
+2020-03-04 15:00:50,528 - DEBUG - BuyAll - Current EUR: 0 // Current ETC: 27.24006615427433
+2020-03-04 15:00:50,572 - DEBUG - -----> Change Order Price: -1.3049
+2020-03-04 15:00:50,577 - DEBUG - BuyAll - Current EUR: 0 // Current ETC: 27.24006615427433
+2020-03-04 15:01:37,386 - DEBUG - -----> Change Order Price: -1.4286
+2020-03-04 15:01:37,386 - DEBUG - BuyAll - Current EUR: 0 // Current ETC: 27.24006615427433
+2020-03-04 15:02:45,355 - DEBUG - -----> Change Order Price: -1.511
+2020-03-04 15:02:45,356 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:02:46,214 - DEBUG - -----> Change Order Price: -1.511
+2020-03-04 15:02:46,214 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:03:08,334 - DEBUG - -----> Change Order Price: -1.7995
+2020-03-04 15:03:08,334 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:03:22,122 - DEBUG - -----> Change Order Price: -1.9093
+2020-03-04 15:03:22,122 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:03:36,501 - DEBUG - -----> Change Order Price: -1.9643
+2020-03-04 15:03:36,502 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:03:36,504 - DEBUG - -----> Change Order Price: -1.8681
+2020-03-04 15:03:36,505 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:03:39,845 - DEBUG - -----> Change Order Price: -2.0742
+2020-03-04 15:03:39,871 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:03:43,246 - DEBUG - -----> Change Order Price: -2.0742
+2020-03-04 15:03:43,246 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:03:43,252 - DEBUG - -----> Change Order Price: -2.0742
+2020-03-04 15:03:43,252 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:03:48,075 - DEBUG - -----> Change Order Price: -2.0604
+2020-03-04 15:03:48,076 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:04:02,851 - DEBUG - -----> Change Order Price: -2.1566
+2020-03-04 15:04:02,851 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:04:10,196 - DEBUG - -----> Change Order Price: -2.3489
+2020-03-04 15:04:10,197 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:04:11,108 - DEBUG - -----> Change Order Price: -2.3901
+2020-03-04 15:04:11,108 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:04:11,145 - DEBUG - -----> Change Order Price: -2.4038
+2020-03-04 15:04:11,145 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:04:11,273 - DEBUG - -----> Change Order Price: -2.4038
+2020-03-04 15:04:11,273 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:04:17,452 - DEBUG - -----> Change Order Price: -2.4588
+2020-03-04 15:04:17,452 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:04:18,121 - DEBUG - -----> Change Order Price: -2.4588
+2020-03-04 15:04:18,122 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:04:26,108 - DEBUG - -----> Change Order Price: -2.3352
+2020-03-04 15:04:26,109 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:04:26,131 - DEBUG - -----> Change Order Price: -2.3352
+2020-03-04 15:04:26,131 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:04:28,056 - DEBUG - -----> Change Order Price: -2.3077
+2020-03-04 15:04:28,057 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:05:37,872 - DEBUG - -----> Change Order Price: -2.1978
+2020-03-04 15:05:37,875 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:05:38,455 - DEBUG - -----> Change Order Price: -2.2115
+2020-03-04 15:05:38,456 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:05:52,149 - DEBUG - -----> Change Order Price: -2.2665
+2020-03-04 15:05:52,150 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:05:56,657 - DEBUG - -----> Change Order Price: -2.3764
+2020-03-04 15:05:56,675 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:06:10,407 - DEBUG - -----> Change Order Price: -2.4038
+2020-03-04 15:06:10,408 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:06:11,078 - DEBUG - -----> Change Order Price: -2.4313
+2020-03-04 15:06:11,078 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:06:11,248 - DEBUG - -----> Change Order Price: -2.4451
+2020-03-04 15:06:11,251 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:06:11,550 - DEBUG - -----> Change Order Price: -2.4588
+2020-03-04 15:06:11,551 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:06:12,218 - DEBUG - -----> Change Order Price: -2.4725
+2020-03-04 15:06:12,219 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:06:12,221 - DEBUG - -----> Change Order Price: -2.4725
+2020-03-04 15:06:12,222 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:06:17,741 - DEBUG - -----> Change Order Price: -2.3626
+2020-03-04 15:06:17,742 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:06:17,758 - DEBUG - -----> Change Order Price: -2.3626
+2020-03-04 15:06:17,758 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:06:17,787 - DEBUG - -----> Change Order Price: -2.2665
+2020-03-04 15:06:17,788 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:06:41,419 - DEBUG - -----> Change Order Price: -2.5275
+2020-03-04 15:06:41,419 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:06:41,421 - DEBUG - -----> Change Order Price: -2.5549
+2020-03-04 15:06:41,422 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:07:38,891 - DEBUG - -----> Change Order Price: -2.5549
+2020-03-04 15:07:38,902 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:07:39,300 - DEBUG - -----> Change Order Price: -2.5549
+2020-03-04 15:07:39,300 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:07:54,271 - DEBUG - -----> Change Order Price: -2.6236
+2020-03-04 15:07:54,272 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:14:04,803 - DEBUG - -----> Change Order Price: -2.7335
+2020-03-04 15:14:04,803 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:14:04,805 - DEBUG - -----> Change Order Price: -2.7473
+2020-03-04 15:14:04,805 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:16:51,076 - DEBUG - -----> Change Order Price: -2.2253
+2020-03-04 15:16:51,079 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:17:06,849 - DEBUG - -----> Change Order Price: -2.0055
+2020-03-04 15:17:06,849 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:18:16,836 - DEBUG - -----> Change Order Price: -1.511
+2020-03-04 15:18:16,837 - DEBUG - SellAll - Current EUR: 194.33471795451624 // Current ETC: 0
+2020-03-04 15:18:38,323 - DEBUG - -----> Change Order Price: -1.4698
+2020-03-04 15:18:38,324 - DEBUG - BuyAll - Current EUR: 0 // Current ETC: 27.092530036876653
+2020-03-04 15:18:39,378 - DEBUG - -----> Change Order Price: -1.3462
+2020-03-04 15:18:39,378 - DEBUG - BuyAll - Current EUR: 0 // Current ETC: 27.092530036876653
+2020-03-04 15:18:52,821 - DEBUG - -----> Change Order Price: -1.4698
+2020-03-04 15:18:52,821 - DEBUG - BuyAll - Current EUR: 0 // Current ETC: 27.092530036876653
